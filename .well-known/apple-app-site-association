@@ -1,11 +1,3 @@
-{
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "GL89GW52DU.com.ptc.tcat.tcatpay",
-        "paths": [ "*" ]
-      }
-    ]
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:78671d2e7fd5ab7c6fcef342d14fce2952083a66385d6af9202df73d57dde263
+size 156
